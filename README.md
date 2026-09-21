@@ -16,3 +16,12 @@ A segmented home lab network built for hands-on security practice — firewall s
 
 ## 👤 Author
 **Derick** — [GitHub](https://github.com/UncleD0886475978)
+
+## 🔗 Related Projects
+
+| Repo | Purpose |
+|------|---------|
+| [segmented-lab-cyberlab](https://github.com/UncleD0886475978/segmented-lab-cyberlab) | Segmented security lab: firewall rules, IDS, attack scenarios |
+| [networking-cheatsheet](https://github.com/UncleD0886475978/networking-cheatsheet) | Subnetting, CLI commands, troubleshooting quick-steps |
+| [iac-networking](https://github.com/UncleD0886475978/iac-networking) | Infrastructure as Code for cloud networking |
+| [network-Linux-troubleshooting-automation-scripts](https://github.com/UncleD0886475978/network-Linux-troubleshooting-automation-scripts) | Monitoring, config backups, and diagnostic scripts |
